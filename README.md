@@ -20,4 +20,3 @@ The instructions for this Challenge are divided into the following high-level st
 2. Sign and run a payment transaction.
 
 3. Inspect the transaction in Ganache.
->>>>>>> d66e5ff0169bfb493dd6a797b7798d98df389cee
