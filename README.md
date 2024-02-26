@@ -1,4 +1,5 @@
 # Blockchain-Wallets-Challenge
+![19-4-challenge-image](https://github.com/daniyargroove/Blockchain-Wallets-Challenge/assets/143307322/eb02d36c-8bcf-4038-9b31-0fe175365a4e)
 
 ## Background
 As the lead developer at KryptoJobs2Go, a cutting-edge startup revolutionizing the fintech industry, I'm tasked with integrating Ethereum blockchain technology into our platform. Our goal is to empower customers to seamlessly pay fintech professionals using cryptocurrency.
